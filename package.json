@@ -23,7 +23,7 @@
     "postinstall": "npm run lint:fix"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "google-translate-api": "^2.3.0",
     "ocr-space-api": "^1.0.1",
     "vue": "^2.5.16",
